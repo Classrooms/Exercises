@@ -1,0 +1,2 @@
+# Exercises
+Classroom exercises
